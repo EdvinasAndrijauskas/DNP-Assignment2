@@ -1,0 +1,59 @@
+﻿@page "/AddAdult"
+@using Managing_Adults.Models
+@using Managing_Adults.Data
+@using global::Models
+@inject IAdultService AdultService
+@inject NavigationManager NavigationManager
+@inject AuthenticationStateProvider AuthenticationStateProvider
+
+<h3>This page is for adding adults</h3>
+
+<EditForm Model="@newAdultItem" OnValidSubmit="@AddNewAdult">
+    <DataAnnotationsValidator/>
+    <ValidationSummary/>
+    <div >Add adult verification information:</div>
+    <br/>
+    <div class="row">
+        <p class="space">FirstName:<br/> <InputText rows="1" @bind-Value="newAdultItem.FirstName"/> </p>
+        <p class="space">LastName:<br/> <InputText rows="1" @bind-Value="newAdultItem.LastName"/> </p>
+        <p class="space">Age:<br/> <InputNumber @bind-Value="newAdultItem.Age"/> </p>
+        <p class="space">
+            Select Gender<br/>
+            <InputSelect @bind-Value="newAdultItem.Sex">
+                <option selected="true" disabled="disabled">Select sex ...</option>
+                <option value="M">Male</option>
+                <option value="F">Female</option>
+            </InputSelect>
+        </p>
+    </div>
+    <div> &nbsp;</div>
+    <div >Add adult specification information:</div>
+    <div> &nbsp;</div>
+    <div class="row">
+        <p class="space-left">HairColor:<br/> <InputText rows="1" @bind-Value="newAdultItem.HairColor"/> </p>
+        <p class="space">EyeColor:<br/> <InputText rows="1" @bind-Value="newAdultItem.EyeColor"/> </p>
+
+        <p class="space">Weight:<br/> <InputNumber rows="1" @bind-Value="newAdultItem.Weight"/> </p>
+        <p class="space">Height:<br/> <InputNumber @bind-Value="newAdultItem.Height"/> </p>
+    </div>
+
+    <div> &nbsp;</div>
+    <div >Add adult job information:</div>
+    <div> &nbsp;</div>
+    <div class="form-group"> Job Title:<br/> <InputText rows="1" @bind-Value="newAdultItem.JobTitle"/> </div>
+
+    <p class="actions">
+        <button class="btn btn-outline-dark" type="submit">Create</button>
+    </p>
+</EditForm>
+
+@code {
+    private Adult newAdultItem = new Adult();
+
+    private void AddNewAdult()
+    {
+        AdultService.AddAdult(newAdultItem);
+        NavigationManager.NavigateTo("/Adults");
+    }
+
+}

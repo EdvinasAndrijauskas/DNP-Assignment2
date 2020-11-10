@@ -1,0 +1,34 @@
+﻿@using LoginComponent
+@inherits LayoutComponentBase
+
+<div class="sidebar">
+    <NavMenu/>
+</div>
+
+<div class="main">
+    <AuthorizeView>
+        <Authorized>
+            <div class="top-row px-4">
+                <h6>Hello, @context.User.Identity.Name ! You have extra functionality</h6>
+                <br/>
+                <Login/>
+            </div>
+        </Authorized>
+      
+        <NotAuthorized>
+            <div class="top-row px-4">
+                <h6>Please log in</h6>
+                <a href="Login"> Here</a>
+            </div>
+        </NotAuthorized>
+    </AuthorizeView>
+    
+    
+
+    <div class="content px-4">
+        @Body
+        @* <Login/> *@
+    </div>
+</div>
+
+

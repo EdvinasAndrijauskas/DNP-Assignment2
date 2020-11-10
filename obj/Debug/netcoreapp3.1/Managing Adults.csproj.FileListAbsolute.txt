@@ -1,0 +1,218 @@
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\bin\Debug\netcoreapp3.1\Managing Adults.exe
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\bin\Debug\netcoreapp3.1\Managing Adults.deps.json
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\bin\Debug\netcoreapp3.1\Managing Adults.runtimeconfig.json
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\bin\Debug\netcoreapp3.1\Managing Adults.runtimeconfig.dev.json
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\bin\Debug\netcoreapp3.1\Managing Adults.dll
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\bin\Debug\netcoreapp3.1\Managing Adults.pdb
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\bin\Debug\netcoreapp3.1\Managing Adults.Views.dll
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\bin\Debug\netcoreapp3.1\Managing Adults.Views.pdb
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Managing Adults.csprojAssemblyReference.cache
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Managing Adults.AssemblyInfoInputs.cache
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Managing Adults.AssemblyInfo.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Managing Adults.csproj.CoreCompileInputs.cache
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Managing Adults.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Managing Adults.RazorComponent.input.cache
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\RazorDeclaration\Managing Adults.dll
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Managing Adults.TagHelpers.input.cache
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Managing Adults.TagHelpers.output.cache
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Managing Adults.RazorCoreGenerate.cache
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Managing Adults.RazorAssemblyInfo.cache
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Managing Adults.RazorAssemblyInfo.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Managing Adults.RazorTargetAssemblyInfo.cache
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Managing Adults.RazorTargetAssemblyInfo.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Managing Adults.Views.pdb
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\staticwebassets\Managing Adults.StaticWebAssets.Manifest.cache
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\staticwebassets\Managing Adults.StaticWebAssets.xml
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Managing Adults.dll
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Managing Adults.pdb
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Managing Adults.genruntimeconfig.cache
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Managing Adults.csproj.CopyComplete
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Razor\Pages\Login.razor.g.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\VIA.razor.g.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Razor\Pages\VIA.razor.g.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\bin\Debug\netcoreapp3.1\adults.json
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddAdult.razor.g.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Razor\Pages\AddAdult.razor.g.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AdultList.razor.g.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Razor\Pages\AdultList.razor.g.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditAdult.razor.g.cs
+C:\Users\tbile\RiderProjects\HandIn\Managing Adults\obj\Debug\netcoreapp3.1\Razor\Pages\EditAdult.razor.g.cs
+D:\Univer\C#\Assignment 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Univer\C#\Assignment 1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Univer\C#\Assignment 1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Univer\C#\Assignment 1\bin\Debug\netcoreapp3.1\adults.json
+D:\Univer\C#\Assignment 1\bin\Debug\netcoreapp3.1\Managing Adults.exe
+D:\Univer\C#\Assignment 1\bin\Debug\netcoreapp3.1\Managing Adults.deps.json
+D:\Univer\C#\Assignment 1\bin\Debug\netcoreapp3.1\Managing Adults.runtimeconfig.json
+D:\Univer\C#\Assignment 1\bin\Debug\netcoreapp3.1\Managing Adults.runtimeconfig.dev.json
+D:\Univer\C#\Assignment 1\bin\Debug\netcoreapp3.1\Managing Adults.dll
+D:\Univer\C#\Assignment 1\bin\Debug\netcoreapp3.1\Managing Adults.pdb
+D:\Univer\C#\Assignment 1\bin\Debug\netcoreapp3.1\Managing Adults.Views.dll
+D:\Univer\C#\Assignment 1\bin\Debug\netcoreapp3.1\Managing Adults.Views.pdb
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Managing Adults.csprojAssemblyReference.cache
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Managing Adults.AssemblyInfoInputs.cache
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Managing Adults.AssemblyInfo.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Managing Adults.csproj.CoreCompileInputs.cache
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Managing Adults.MvcApplicationPartsAssemblyInfo.cache
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Managing Adults.RazorComponent.input.cache
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddAdult.razor.g.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AdultList.razor.g.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditAdult.razor.g.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Login.razor.g.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Managing Adults.dll
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Managing Adults.TagHelpers.input.cache
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Managing Adults.TagHelpers.output.cache
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Managing Adults.RazorCoreGenerate.cache
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Razor\Pages\AddAdult.razor.g.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Razor\Pages\AdultList.razor.g.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Razor\Pages\EditAdult.razor.g.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Razor\Pages\Login.razor.g.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Managing Adults.RazorAssemblyInfo.cache
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Managing Adults.RazorAssemblyInfo.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Managing Adults.RazorTargetAssemblyInfo.cache
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Managing Adults.RazorTargetAssemblyInfo.cs
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Managing Adults.Views.pdb
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\staticwebassets\Managing Adults.StaticWebAssets.Manifest.cache
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\staticwebassets\Managing Adults.StaticWebAssets.xml
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Managing Adults.dll
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Managing Adults.pdb
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Managing Adults.genruntimeconfig.cache
+D:\Univer\C#\Assignment 1\obj\Debug\netcoreapp3.1\Managing Adults.csproj.CopyComplete
+D:\Univer\C#\DNP---Assignment1-master\bin\Debug\netcoreapp3.1\adults.json
+D:\Univer\C#\DNP---Assignment1-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Univer\C#\DNP---Assignment1-master\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Univer\C#\DNP---Assignment1-master\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Univer\C#\DNP---Assignment1-master\bin\Debug\netcoreapp3.1\Managing Adults.exe
+D:\Univer\C#\DNP---Assignment1-master\bin\Debug\netcoreapp3.1\Managing Adults.deps.json
+D:\Univer\C#\DNP---Assignment1-master\bin\Debug\netcoreapp3.1\Managing Adults.runtimeconfig.json
+D:\Univer\C#\DNP---Assignment1-master\bin\Debug\netcoreapp3.1\Managing Adults.runtimeconfig.dev.json
+D:\Univer\C#\DNP---Assignment1-master\bin\Debug\netcoreapp3.1\Managing Adults.dll
+D:\Univer\C#\DNP---Assignment1-master\bin\Debug\netcoreapp3.1\Managing Adults.pdb
+D:\Univer\C#\DNP---Assignment1-master\bin\Debug\netcoreapp3.1\Managing Adults.Views.dll
+D:\Univer\C#\DNP---Assignment1-master\bin\Debug\netcoreapp3.1\Managing Adults.Views.pdb
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Managing Adults.csprojAssemblyReference.cache
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Managing Adults.AssemblyInfoInputs.cache
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Managing Adults.AssemblyInfo.cs
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Managing Adults.csproj.CoreCompileInputs.cache
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Managing Adults.MvcApplicationPartsAssemblyInfo.cache
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Managing Adults.RazorComponent.input.cache
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddAdult.razor.g.cs
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AdultList.razor.g.cs
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Login.razor.g.cs
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Managing Adults.dll
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Managing Adults.TagHelpers.input.cache
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Managing Adults.TagHelpers.output.cache
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Managing Adults.RazorCoreGenerate.cache
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Razor\Pages\AddAdult.razor.g.cs
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Razor\Pages\AdultList.razor.g.cs
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Razor\Pages\Login.razor.g.cs
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Managing Adults.RazorAssemblyInfo.cache
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Managing Adults.RazorAssemblyInfo.cs
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Managing Adults.RazorTargetAssemblyInfo.cache
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Managing Adults.RazorTargetAssemblyInfo.cs
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Managing Adults.Views.pdb
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\staticwebassets\Managing Adults.StaticWebAssets.Manifest.cache
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\staticwebassets\Managing Adults.StaticWebAssets.xml
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Managing Adults.dll
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Managing Adults.pdb
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Managing Adults.genruntimeconfig.cache
+D:\Univer\C#\DNP---Assignment1-master\obj\Debug\netcoreapp3.1\Managing Adults.csproj.CopyComplete
+D:\Univer\C#\DNP-Asignment2-main\bin\Debug\netcoreapp3.1\adults.json
+D:\Univer\C#\DNP-Asignment2-main\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Univer\C#\DNP-Asignment2-main\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Univer\C#\DNP-Asignment2-main\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Univer\C#\DNP-Asignment2-main\bin\Debug\netcoreapp3.1\Managing Adults.exe
+D:\Univer\C#\DNP-Asignment2-main\bin\Debug\netcoreapp3.1\Managing Adults.deps.json
+D:\Univer\C#\DNP-Asignment2-main\bin\Debug\netcoreapp3.1\Managing Adults.runtimeconfig.json
+D:\Univer\C#\DNP-Asignment2-main\bin\Debug\netcoreapp3.1\Managing Adults.runtimeconfig.dev.json
+D:\Univer\C#\DNP-Asignment2-main\bin\Debug\netcoreapp3.1\Managing Adults.dll
+D:\Univer\C#\DNP-Asignment2-main\bin\Debug\netcoreapp3.1\Managing Adults.pdb
+D:\Univer\C#\DNP-Asignment2-main\bin\Debug\netcoreapp3.1\Managing Adults.Views.dll
+D:\Univer\C#\DNP-Asignment2-main\bin\Debug\netcoreapp3.1\Managing Adults.Views.pdb
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Managing Adults.csprojAssemblyReference.cache
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Managing Adults.AssemblyInfoInputs.cache
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Managing Adults.AssemblyInfo.cs
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Managing Adults.csproj.CoreCompileInputs.cache
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Managing Adults.MvcApplicationPartsAssemblyInfo.cache
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Managing Adults.RazorComponent.input.cache
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddAdult.razor.g.cs
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AdultList.razor.g.cs
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Login.razor.g.cs
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\RazorDeclaration\Managing Adults.dll
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Managing Adults.TagHelpers.input.cache
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Managing Adults.TagHelpers.output.cache
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Managing Adults.RazorCoreGenerate.cache
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Razor\Pages\AddAdult.razor.g.cs
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Razor\Pages\AdultList.razor.g.cs
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Razor\Pages\Login.razor.g.cs
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Managing Adults.RazorAssemblyInfo.cache
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Managing Adults.RazorAssemblyInfo.cs
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Managing Adults.RazorTargetAssemblyInfo.cache
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Managing Adults.RazorTargetAssemblyInfo.cs
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Managing Adults.Views.pdb
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\staticwebassets\Managing Adults.StaticWebAssets.Manifest.cache
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\staticwebassets\Managing Adults.StaticWebAssets.xml
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Managing Adults.dll
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Managing Adults.pdb
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Managing Adults.genruntimeconfig.cache
+D:\Univer\C#\DNP-Asignment2-main\obj\Debug\netcoreapp3.1\Managing Adults.csproj.CopyComplete
